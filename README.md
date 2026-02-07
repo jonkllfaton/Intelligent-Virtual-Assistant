@@ -3,11 +3,32 @@
 ![Header GIF](assets/demo/assistant-demo.gif)
 *A voice-activated personal assistant built with Python, responding to your commands in real-time.*
 
-[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python\&logoColor=white)](https://www.python.org/)
-[![MIT License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
-[![Build Status](https://img.shields.io/badge/Build-Python%20Script-yellow)]
-[![Top Language](https://img.shields.io/github/languages/top/<username>/ai-voice-assistant)](https://github.com/<username>/ai-voice-assistant)
-[![Stars](https://img.shields.io/github/stars/<username>/ai-voice-assistant?style=social)](https://github.com/<username>/ai-voice-assistant/stargazers)
+<!-- Language & Version -->
+[![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
+
+<!-- License -->
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+
+<!-- Build Status -->
+[![Build](https://img.shields.io/badge/Build-Python%20Script-yellow?style=for-the-badge)]()
+
+<!-- Top Language -->
+[![Top Language](https://img.shields.io/github/languages/top/jonkllfaton/ai-voice-assistant?style=for-the-badge)](https://github.com/jonkllfaton/ai-voice-assistant)
+
+<!-- Stars -->
+[![GitHub stars](https://img.shields.io/github/stars/jonkllfaton/ai-voice-assistant?style=for-the-badge)](https://github.com/jonkllfaton/ai-voice-assistant/stargazers)
+
+<!-- Forks -->
+[![GitHub forks](https://img.shields.io/github/forks/jonkllfaton/ai-voice-assistant?style=for-the-badge)](https://github.com/jonkllfaton/ai-voice-assistant/network/members)
+
+<!-- Issues -->
+[![GitHub issues](https://img.shields.io/github/issues/jonkllfaton/ai-voice-assistant?style=for-the-badge)](https://github.com/jonkllfaton/ai-voice-assistant/issues)
+
+<!-- Last Commit -->
+[![GitHub last commit](https://img.shields.io/github/last-commit/jonkllfaton/ai-voice-assistant?style=for-the-badge)](https://github.com/jonkllfaton/ai-voice-assistant/commits/main)
+
+<!-- Contributors -->
+[![Contributors](https://img.shields.io/github/contributors/jonkllfaton/ai-voice-assistant?style=for-the-badge)](https://github.com/jonkllfaton/ai-voice-assistant/graphs/contributors)
 
 ---
 🔥 Project Overview
