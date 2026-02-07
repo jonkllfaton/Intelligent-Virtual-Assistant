@@ -1,7 +1,7 @@
  🤖 AI Voice Assistant (Jarvis)
 
 ![Header GIF](assets/demo/assistant-demo.gif)
-*A voice-activated personal assistant built with Python, responding to your commands in real-time.*
+*A Voice-Activated Personal Assistant built with Python, responding to your commands in real-time.*
 
 [![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
