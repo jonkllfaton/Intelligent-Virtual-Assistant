@@ -7,13 +7,13 @@
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Build](https://img.shields.io/badge/Build-Python%20Script-yellow?style=for-the-badge)]()
 [![Top Language](https://img.shields.io/badge/Top%20Language-Python-blue?style=for-the-badge&logo=python&logoColor=white)](https://github.com/jonkllfaton/ai-voice-assistant)
-]
-[![Stars](https://img.shields.io/github/stars/jonkllfaton/ai-voice-assistant?style=for-the-badge)](https://github.com/jonkllfaton/ai-voice-assistant/stargazers)
 
-[![Forks](https://img.shields.io/github/forks/jonkllfaton/ai-voice-assistant?style=for-the-badge)](https://github.com/jonkllfaton/ai-voice-assistant/network/members)
-[![Issues](https://img.shields.io/github/issues/jonkllfaton/ai-voice-assistant?style=for-the-badge)](https://github.com/jonkllfaton/ai-voice-assistant/issues)
-[![Last Commit](https://img.shields.io/github/last-commit/jonkllfaton/ai-voice-assistant?style=for-the-badge)](https://github.com/jonkllfaton/ai-voice-assistant/commits/main)
-[![Contributors](https://img.shields.io/github/contributors/jonkllfaton/ai-voice-assistant?style=for-the-badge)](https://github.com/jonkllfaton/ai-voice-assistant/graphs/contributors)
+[![Stars](https://img.shields.io/badge/Stars-⭐-brightgreen?style=for-the-badge)](https://github.com/jonkllfaton/ai-voice-assistant/stargazers)
+[![Forks](https://img.shields.io/badge/Forks-🔀-blue?style=for-the-badge)](https://github.com/jonkllfaton/ai-voice-assistant/network/members)
+[![Issues](https://img.shields.io/badge/Issues-❗-red?style=for-the-badge)](https://github.com/jonkllfaton/ai-voice-assistant/issues)
+
+[![Last Commit](https://img.shields.io/badge/Last%20Commit-📅-orange?style=for-the-badge)](https://github.com/jonkllfaton/ai-voice-assistant/commits/main)
+[![Contributors](https://img.shields.io/badge/Contributors-👥-purple?style=for-the-badge)](https://github.com/jonkllfaton/ai-voice-assistant/graphs/contributors)
 
 ---
 🔥 Project Overview
